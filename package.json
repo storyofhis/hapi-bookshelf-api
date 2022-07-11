@@ -1,0 +1,15 @@
+{
+  "name": "Bookshelf-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maula Izza Azizi <github.com/storyofhis>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
